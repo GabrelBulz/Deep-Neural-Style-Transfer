@@ -1,2 +1,2 @@
-# bulzgabi.97-gmail.com
-Deep Neural Style Transfer
+# Deep Neural Style Transfer
+
